@@ -13,7 +13,7 @@ Build a command-line application that at a minimum allows the user to:
 
 - Update employee roles
 
-![video](https://drive.google.com/file/d/1mpWsA43FfIEL_JXnjv6yGMS121Kb2oBK/view)
+https://drive.google.com/file/d/1mpWsA43FfIEL_JXnjv6yGMS121Kb2oBK/view
 
 Technologies use
 
