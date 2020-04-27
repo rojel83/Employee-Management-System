@@ -13,11 +13,9 @@ Build a command-line application that at a minimum allows the user to:
 
 - Update employee roles
 
-Nodejs homework assignment
+![video](https://drive.google.com/file/d/1mpWsA43FfIEL_JXnjv6yGMS121Kb2oBK/view)
 
-<iframe src="https://drive.google.com/file/d/1mpWsA43FfIEL_JXnjv6yGMS121Kb2oBK/view" width="640" height="480"></iframe>
-
-Technologies used
+Technologies use
 
 - Node.js
 - MySql
